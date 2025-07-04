@@ -64,7 +64,7 @@ The dataset includes:
 1. **Clone the repo:**
 
     ```bash
-    git clone https://github.com/yourusername/gold-extraction-ml.git
+    git clone https://github.com/JoeMcDow/gold-extraction-ml.git
     cd gold-extraction-ml
     ```
 
